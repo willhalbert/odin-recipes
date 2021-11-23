@@ -1,0 +1,18 @@
+.title,
+.two {
+    background-color: blue;
+    color: white;
+    font: "Times New Roman", sans-serif;
+}
+.title {
+    font-size: 50px;
+}
+.two {
+    font-size: 40px;
+}
+.list,
+.list .in {
+    font: "Times New Roman", sans-serif;
+    font-size: 30px;
+    color: black;
+}
